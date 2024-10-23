@@ -56,7 +56,7 @@ The dataset can be sourced from:
 ## Packages and frameworks i used
 
 - [Python 3.x]() 3.9 or more (Recommended)
-- [numpy](https://keras.io/) for Algebra
+- [numpy](https://numpy.org/doc/) for Algebra
 - [pandas](https://pandas.pydata.org/docs/) for datasets
 - [cv2](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) For images
 - [ultralytics](https://docs.ultralytics.com/guides/) For `YOLO` model
