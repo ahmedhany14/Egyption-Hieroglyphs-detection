@@ -162,3 +162,6 @@ cython_debug/
 #.idea/
 dataset
 model
+runs
+yolo11n.pt
+yolov8n.pt
